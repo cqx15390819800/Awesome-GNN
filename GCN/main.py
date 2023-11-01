@@ -58,6 +58,6 @@ if __name__ == "__main__":
     train(g, features, labels, masks, model)
 
     # test
-    print("Testing...")
+    print("Testing...")     # Test accuracy 0.8100
     acc = evaluate(g, features, labels, masks[2], model)
     print("Test accuracy {:.4f}".format(acc))
