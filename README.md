@@ -7,5 +7,5 @@ PyTorch 2.1
 [GCN 同构图的实现：节点分类任务](https://zhuanlan.zhihu.com/p/664761833)  
 [GAT 同构图的实现：节点分类任务](https://zhuanlan.zhihu.com/p/664777454)  
 [GraphSAGE 的实现：推荐系统召回任务](https://zhuanlan.zhihu.com/p/665088708)  
-
+[GFM 的实现：推荐系统召回任务](https://zhuanlan.zhihu.com/p/665730788)  
 
