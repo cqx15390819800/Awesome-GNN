@@ -3,7 +3,7 @@ import random
 import dgl
 import torch
 import numpy as np
-from tqdm import tqdm     # 产生进度条的库
+from tqdm import tqdm
 import networkx as nx
 import pandas as pd
 
