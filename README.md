@@ -8,4 +8,5 @@ PyTorch 2.1
 [GAT 同构图的实现：节点分类任务](https://zhuanlan.zhihu.com/p/664777454)  
 [GraphSAGE 的实现：推荐系统召回任务](https://zhuanlan.zhihu.com/p/665088708)  
 [GFM 的实现：推荐系统召回任务](https://zhuanlan.zhihu.com/p/665730788)  
+[TransE 的实现：获取电影实体和关系的 Embedding](https://zhuanlan.zhihu.com/p/666102571)  
 
