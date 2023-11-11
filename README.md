@@ -9,4 +9,6 @@ PyTorch 2.1
 [GraphSAGE 的实现：推荐系统召回任务](https://zhuanlan.zhihu.com/p/665088708)  
 [GFM 的实现：推荐系统召回任务](https://zhuanlan.zhihu.com/p/665730788)  
 [TransE 的实现：获取电影实体和关系的 Embedding](https://zhuanlan.zhihu.com/p/666102571)  
+[TransH 的实现：获取电影实体和关系的 Embedding](https://zhuanlan.zhihu.com/p/666276495)  
+
 
