@@ -13,4 +13,6 @@ PyTorch 2.1
 [TransR 的实现：获取电影实体和关系的 Embedding](https://zhuanlan.zhihu.com/p/666278672)  
 [RESCAL 的实现：获取电影实体和关系的 Embedding](https://zhuanlan.zhihu.com/p/666791096)  
 [CKE 的实现：获取电影实体和关系的 Embedding](https://zhuanlan.zhihu.com/p/667496474)  
+[MKR 的实现：获取电影实体和关系的 Embedding](https://zhuanlan.zhihu.com/p/667673290)  
+
 
